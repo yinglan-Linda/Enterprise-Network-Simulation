@@ -22,7 +22,7 @@ The network includes VLAN segmentation, dynamic routing, DHCP services and acces
 
 ## Network Topology
 
-![Topology](./screenshots/topology.png)
+![Topology](./screenshots/Topology.png)
 
 ---
 
