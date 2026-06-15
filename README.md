@@ -22,7 +22,7 @@ The network includes VLAN segmentation, dynamic routing, DHCP services and acces
 
 ## Network Topology
 
-![Topology](topology.png)
+![Topology](./screenshots/topology.png)
 
 ---
 
@@ -42,10 +42,10 @@ The network includes VLAN segmentation, dynamic routing, DHCP services and acces
 Example verification commands:
 
 show ip route
-![routing-table](routing-table.png)
+![routing-table](./screenshots/routing-table.png)
 show vlan brief
-![vlan](vlan.png)
+![vlan](./screenshots/vlan.png)
 show ip ospf neighbor
-![ospf-neighbor](ospf-neighbor.png)
+![ospf-neighbor](./screenshots/ospf-neighbor.png)
 ping
-![Ping-test](ping-test.png)
+![Ping-test](./screenshots/ping-test.png)
